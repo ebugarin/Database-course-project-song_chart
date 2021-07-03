@@ -6,7 +6,7 @@ cs480---course-project-song_chart created by GitHub Classroom
 1. [Database description](#description)
  
 # Database
-song_name
+song_chart
 # Author(s)
 Eric Bugarin
 # Database description
