@@ -1,5 +1,6 @@
 # cs480---course-project-song_chart
-cs480---course-project-song_chart created by GitHub Classroom
+cs480---course-project-song_chart
+This was a Database I designed and implemented using simple HTML + Java page to perform CRUD operations on the Database 
 ## Table of Contents
 1. [Database](#database)
 1. [Author(s)](#author)
